@@ -1,6 +1,6 @@
 package org.launchcode.codingevents.models;
 
-import android.arch.persistence.room.Entity;
+//import android.arch.persistence.room.Entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
